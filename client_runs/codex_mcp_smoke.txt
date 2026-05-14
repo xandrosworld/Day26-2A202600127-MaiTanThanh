@@ -1,0 +1,5 @@
+Used the `sqlite_lab` MCP server.
+
+Students table columns: `id`, `student_code`, `name`, `cohort`, `email`, `gpa`, `created_at`.
+
+Top cohort `A1` student by GPA: **An Nguyen**, GPA **3.86**.

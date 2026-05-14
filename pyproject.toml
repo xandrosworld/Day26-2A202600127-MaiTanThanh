@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+testpaths = ["implementation/tests"]
+pythonpath = ["."]
+addopts = "-q"
+filterwarnings = [
+    "ignore:authlib\\.jose module is deprecated.*:authlib.deprecate.AuthlibDeprecationWarning"
+]

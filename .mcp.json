@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "type": "stdio",
+      "command": "C:\\Users\\DELL\\Desktop\\test\\day26\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\DELL\\Desktop\\test\\day26\\implementation\\mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
+

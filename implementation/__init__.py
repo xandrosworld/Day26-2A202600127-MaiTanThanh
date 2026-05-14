@@ -1,0 +1,2 @@
+"""SQLite MCP lab implementation."""
+

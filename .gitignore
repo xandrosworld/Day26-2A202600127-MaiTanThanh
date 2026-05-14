@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Generated local SQLite files. Recreate with:
+# python implementation/init_db.py --reset
+implementation/data/*.sqlite
+implementation/data/*.sqlite3
+!implementation/data/.gitkeep
+
